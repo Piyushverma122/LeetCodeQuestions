@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0796-rotate-string) |
+## Math
+|  |
+| ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
