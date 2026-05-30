@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3093-longest-common-suffix-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
@@ -28,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+## Binary Search
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3161-block-placement-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
