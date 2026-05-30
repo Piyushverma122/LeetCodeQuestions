@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0796-rotate-string) |
 | [3093-longest-common-suffix-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3093-longest-common-suffix-queries) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Trie
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2553-separate-the-digits-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
