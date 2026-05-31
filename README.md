@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2126-destroying-asteroids) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3161-block-placement-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3161-block-placement-queries) |
 ## Binary Indexed Tree
 |  |
