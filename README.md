@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
