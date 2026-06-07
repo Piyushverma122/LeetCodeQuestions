@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3093-longest-common-suffix-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3093-longest-common-suffix-queries) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
