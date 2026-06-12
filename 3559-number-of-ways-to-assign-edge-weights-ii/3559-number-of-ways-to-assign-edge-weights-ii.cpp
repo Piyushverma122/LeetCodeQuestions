@@ -1,79 +1,117 @@
+constexpr int N=1e5;
+constexpr int LOG=17; // because 2^17 > 1e5
+
+static int q[N], front=0, back=0; // custom queue
+static int adj[N+1];              // array linked list heads
+struct Edge {
+    int to=-1, nxt=-1;
+};
+static Edge E[2*N]; // undirected edges capacity
+static int eCnt=0;  // count E
+
+static inline void addEdge(int u, int v) {
+    E[eCnt]={v, adj[u]};
+    adj[u]=eCnt++;
+}
+// 1-indexed
+// up[i][j] stores the (2^j)-th ancestor of node i
+static int level[N+1], parent[N+1], up[N+1][LOG];
+static constexpr int mod=1e9+7;
+
 class Solution {
 public:
-    vector<int>per,depth;
-    vector<vector<int>>up;
-    int LOG=20;
-    const int MOD=1e9+7;
-    int power(long long a,long long b){
-        long long ans=1;
-        a%=MOD;
-        while(b>0){
-            if(b&1)ans=(ans*a)%MOD;
-            a=(a*a)%MOD;
-            b>>=1;
+    static long long modPow(long long x, int exp) {
+        long long y=1; 
+        for (; exp; exp>>=1) {
+            if (exp & 1) y=y*x%mod;
+            x=x*x%mod;
         }
-        return (int)ans;
+        return y;
     }
 
-    int countWays(int d){
-        if(d==0)return 0;
-        return power(2,d-1);
+    static long long pow2(int x) {
+        if (x<30) return 1<<x;
+        long long B=(1<<30) % mod;
+        auto [qq, r]=div(x, 30);
+        return modPow(B, qq)*pow2(r)%mod;
     }
 
-    void dfs(int node,int p,vector<vector<int>>&adj){
-        per[node]=p;
-        up[node][0]=p;
-        for(int j=1;j<LOG;j++){
-            if(up[node][j-1]!=-1)up[node][j]=up[up[node][j-1]][j-1];
+    static int lca(int u, int v) {
+        if (level[u]<level[v]) swap(u, v);
+        int diff=level[u]-level[v];
+        // Equalize levels using ctz
+        for(; diff; diff&=(diff-1)) {
+            const int i=__builtin_ctz(diff);
+            u=up[u][i];
         }
-        for(auto&it:adj[node]){
-            if(it!=p){
-                depth[it]=depth[node]+1;
-                dfs(it,node,adj);
-            }
-        }
-    }
-
-    int lca(int u,int v){
-        if(depth[u]<depth[v])swap(u,v);
-        int diff=depth[u]-depth[v];
-        for(int j=0;j<LOG;j++){
-            if(diff&(1<<j))
-                u=up[u][j];
-        }
-        if(u==v)
-            return u;
-        for(int j=LOG-1;j>=0;j--){
-            if(up[u][j]!=up[v][j]){
-                u=up[u][j];
-                v=up[v][j];
+        if (u==v) return u;
+        // Lift simultaneously
+        for (int i=LOG-1; i>=0; i--) {
+            if (up[u][i]!=up[v][i]) {
+                u=up[u][i];
+                v=up[v][i];
             }
         }
         return up[u][0];
     }
 
-    int dist(int u,int v){
-        int L=lca(u,v);
-        int d=depth[u]+depth[v]-2*depth[L];
-        return countWays(d);
+    static inline int distance(int u, int v) {
+        int a=lca(u, v);
+        return level[u]+level[v]-2*level[a];
     }
 
     vector<int> assignEdgeWeights(vector<vector<int>>& edges, vector<vector<int>>& queries) {
-        int n=edges.size()+2;
-        vector<vector<int>>adj(n);
-        for(auto&edge:edges){
-            int u=edge[0],v=edge[1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+        const int n=edges.size()+1;  
+        // reset
+        memset(adj, -1, sizeof(int)*(n+1));
+        memset(level, 0, sizeof(int)*(n+1));
+        memset(parent, 0, sizeof(int)*(n+1));
+        eCnt=0;
+        
+        for (auto& e : edges) {
+            int u=e[0], v=e[1];
+            addEdge(u, v);
+            addEdge(v, u);
         }
-        per.resize(n,-1);
-        depth.resize(n,0);
-        up.resize(n,vector<int>(LOG,-1));
-        dfs(1,-1,adj);
-        vector<int>ans;
-        for(auto&q:queries){
-            int u=q[0],v=q[1];
-            ans.push_back(dist(u,v));
+
+        // BFS traversal
+        static bitset<N+1> viz;
+        viz.reset();
+        front=back=0;
+        q[back++]=1;
+        viz[1]=1;
+        parent[1]=0; // Root's parent points to dummy node 0
+        level[1]=1;  // Root starts at level 1
+        while (front<back) {
+            int u=q[front++];
+            for (int e=adj[u]; e!=-1; e=E[e].nxt) {
+                int v=E[e].to;
+                if (!viz[v]) {
+                    viz[v]=1;
+                    parent[v]=u;
+                    level[v]=level[u]+1;
+                    q[back++]=v;
+                }
+            }
+        }
+
+        // Build binary lifting DP table up to index n
+        for (int i=1; i<=n; i++) 
+            up[i][0]=parent[i];
+        
+        
+        for (int j=1; j<LOG; j++) {
+            for (int i=0; i<=n; i++) 
+                up[i][j]=up[up[i][j-1]][j-1];
+        }
+
+        const int m=queries.size();
+        vector<int> ans(m);
+        for (int i=0; i<m; i++) {
+            int u=queries[i][0];
+            int v=queries[i][1];
+            int d=distance(u, v);
+            ans[i]=(d>0)?pow2(d-1):0;
         }
         return ans;
     }
