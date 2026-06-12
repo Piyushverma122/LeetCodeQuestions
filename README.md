@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
