@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0796-rotate-string) |
+| [1871-jump-game-vii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1871-jump-game-vii) |
 | [3093-longest-common-suffix-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3838-weighted-word-mapping](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
