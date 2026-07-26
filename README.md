@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1301-number-of-paths-with-max-score) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
