@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -334,4 +337,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
