@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1872-stone-game-viii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2029-stone-game-ix) |
