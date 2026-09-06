@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1406-stone-game-iii) |
