@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0796-rotate-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1386-cinema-seat-allocation) |
