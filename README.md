@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1871-jump-game-vii](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1927-sum-game) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1331-rank-transform-of-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Piyushverma122/LeetCodeQuestions/tree/master/2126-destroying-asteroids) |
